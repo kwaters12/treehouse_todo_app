@@ -11,6 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
 gem 'foundation-rails', '~> 5.2.2'
+gem 'font-awesome-rails', '~> 4.1.0.0'
 
 group :development do
   gem 'spring'
